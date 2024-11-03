@@ -1,0 +1,14 @@
+{
+	"name": "discord.hx",
+	"url": "https://github.com/dimensionscape-llc/discord.hx",
+	"license": "GPL",
+	"tags": [ "discord"],
+	"description": "Discord API Wrapper",
+	"version": "0.0.1",
+	"releasenote": "Initial Release",
+	"contributors": [		
+		"Dimensionscape"
+	],
+	"dependencies": {},
+	"classPath": "src"
+}
